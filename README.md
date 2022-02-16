@@ -1,3 +1,1 @@
 # Django-API
-
-# Games API
